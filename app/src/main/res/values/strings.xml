@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CatalogoProductos</string>
+    <string-array name="items">
+        <item>Cremería</item>
+        <item>Dulcería</item>
+        <item>Abarrotes</item>
+        <item>Frutas y verduras</item>
+    </string-array>
+
+</resources>
